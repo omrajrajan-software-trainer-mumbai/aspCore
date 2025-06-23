@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PartyInvites_01.props" />
+</Project>

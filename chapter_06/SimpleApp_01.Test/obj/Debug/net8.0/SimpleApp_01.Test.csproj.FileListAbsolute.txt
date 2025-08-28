@@ -1,0 +1,6 @@
+C:\Users\ashwin\source\repos\asp-core\chapter_06\SimpleApp_01.Test\obj\Debug\net8.0\SimpleApp_01.Test.csproj.AssemblyReference.cache
+C:\Users\ashwin\source\repos\asp-core\chapter_06\SimpleApp_01.Test\obj\Debug\net8.0\SimpleApp_01.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwin\source\repos\asp-core\chapter_06\SimpleApp_01.Test\obj\Debug\net8.0\SimpleApp_01.Test.AssemblyInfoInputs.cache
+C:\Users\ashwin\source\repos\asp-core\chapter_06\SimpleApp_01.Test\obj\Debug\net8.0\SimpleApp_01.Test.AssemblyInfo.cs
+C:\Users\ashwin\source\repos\asp-core\chapter_06\SimpleApp_01.Test\obj\Debug\net8.0\SimpleApp_01.Test.csproj.CoreCompileInputs.cache
+C:\Users\ashwin\source\repos\asp-core\chapter_06\SimpleApp_01.Test\obj\Debug\net8.0\SimpleApp_01.Test.sourcelink.json

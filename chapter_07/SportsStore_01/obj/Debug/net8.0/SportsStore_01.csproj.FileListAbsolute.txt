@@ -1,0 +1,9 @@
+C:\Users\ashwin\source\repos\asp-core\chapter_07\SportsStore_01\obj\Debug\net8.0\SportsStore_01.csproj.AssemblyReference.cache
+C:\Users\ashwin\source\repos\asp-core\chapter_07\SportsStore_01\obj\Debug\net8.0\SportsStore_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwin\source\repos\asp-core\chapter_07\SportsStore_01\obj\Debug\net8.0\SportsStore_01.AssemblyInfoInputs.cache
+C:\Users\ashwin\source\repos\asp-core\chapter_07\SportsStore_01\obj\Debug\net8.0\SportsStore_01.AssemblyInfo.cs
+C:\Users\ashwin\source\repos\asp-core\chapter_07\SportsStore_01\obj\Debug\net8.0\SportsStore_01.csproj.CoreCompileInputs.cache
+C:\Users\ashwin\source\repos\asp-core\chapter_07\SportsStore_01\obj\Debug\net8.0\SportsStore_01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashwin\source\repos\asp-core\chapter_07\SportsStore_01\obj\Debug\net8.0\SportsStore_01.RazorAssemblyInfo.cache
+C:\Users\ashwin\source\repos\asp-core\chapter_07\SportsStore_01\obj\Debug\net8.0\SportsStore_01.RazorAssemblyInfo.cs
+C:\Users\ashwin\source\repos\asp-core\chapter_07\SportsStore_01\obj\Debug\net8.0\SportsStore_01.sourcelink.json

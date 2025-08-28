@@ -1708,6 +1708,19 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "SimpleApp_01/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SimpleApp_01.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleApp_01.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -5497,11 +5510,17 @@
         "xunit.runner.visualstudio.2.5.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "SimpleApp_01/1.0.0": {
+      "type": "project",
+      "path": "../SimpleApp_01/SimpleApp_01.csproj",
+      "msbuildProject": "../SimpleApp_01/SimpleApp_01.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.8.0",
+      "SimpleApp_01 >= 1.0.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
       "xunit.runner.visualstudio >= 2.5.3"
@@ -5539,7 +5558,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ashwin\\source\\repos\\asp-core\\chapter_06\\SimpleApp_01\\SimpleApp_01.csproj": {
+              "projectPath": "C:\\Users\\ashwin\\source\\repos\\asp-core\\chapter_06\\SimpleApp_01\\SimpleApp_01.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

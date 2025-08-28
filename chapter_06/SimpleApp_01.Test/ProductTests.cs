@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using SimpleApp_01.Models;
+﻿using SimpleApp_01.Models;
 using Xunit;
 
 namespace SimpleApp_01.Test
@@ -29,7 +24,7 @@ namespace SimpleApp_01.Test
             // Act
             p.Price = 200M;
             //Assert
-            Assert.Equal(100M, p.Price);
+            Assert.Equal(200M, p.Price);
         }
     }
 }

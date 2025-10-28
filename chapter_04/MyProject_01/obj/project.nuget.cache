@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ILZA8ECIh9o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\india2\\source\\aspCore\\chapter_04\\MyProject_01\\MyProject_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\india2\\.nuget\\packages\\microsoft.web.librarymanager.build\\3.0.71\\microsoft.web.librarymanager.build.3.0.71.nupkg.sha512"
+  ],
+  "logs": []
+}

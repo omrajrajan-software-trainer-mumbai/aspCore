@@ -1,0 +1,176 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Microsoft.Web.LibraryManager.Build/3.0.71": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Web.LibraryManager.Build.props": {},
+          "build/Microsoft.Web.LibraryManager.Build.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Web.LibraryManager.Build/3.0.71": {
+      "sha512": "uO0RegM2P5ZZhQDJQ+YSiugXJgNnh4gmjMd3VofeoE9MSu60zYoR3meA9SAm6PVJW2t//SzICXQf4+JtfUTJQA==",
+      "type": "package",
+      "path": "microsoft.web.librarymanager.build/3.0.71",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.txt",
+        "PackageIcon.png",
+        "Third-party-notice.txt",
+        "build/Microsoft.Web.LibraryManager.Build.props",
+        "build/Microsoft.Web.LibraryManager.Build.targets",
+        "microsoft.web.librarymanager.build.3.0.71.nupkg.sha512",
+        "microsoft.web.librarymanager.build.nuspec",
+        "tools/net481/Microsoft.Web.LibraryManager.Build.dll",
+        "tools/net481/Microsoft.Web.LibraryManager.Contracts.dll",
+        "tools/net481/Microsoft.Web.LibraryManager.dll",
+        "tools/net481/Newtonsoft.Json.dll",
+        "tools/net481/cs/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/cs/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/de/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/de/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/es/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/es/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/fr/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/fr/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/it/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/it/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/ja/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/ja/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/ko/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/ko/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/pl/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/pl/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/pt-BR/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/pt-BR/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/ru/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/ru/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/tr/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/tr/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/zh-Hans/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/zh-Hans/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net481/zh-Hant/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net481/zh-Hant/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/Microsoft.Web.LibraryManager.Build.dll",
+        "tools/net8.0/Microsoft.Web.LibraryManager.Contracts.dll",
+        "tools/net8.0/Microsoft.Web.LibraryManager.dll",
+        "tools/net8.0/Newtonsoft.Json.dll",
+        "tools/net8.0/cs/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/cs/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/de/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/de/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/es/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/es/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/fr/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/fr/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/it/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/it/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/ja/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/ja/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/ko/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/ko/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/pl/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/pl/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/pt-BR/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/pt-BR/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/ru/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/ru/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/tr/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/tr/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/zh-Hans/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/zh-Hans/Microsoft.Web.LibraryManager.resources.dll",
+        "tools/net8.0/zh-Hant/Microsoft.Web.LibraryManager.Contracts.resources.dll",
+        "tools/net8.0/zh-Hant/Microsoft.Web.LibraryManager.resources.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Microsoft.Web.LibraryManager.Build >= 3.0.71"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\india2\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\india2\\source\\aspCore\\chapter_04\\MyProject_01\\MyProject_01.csproj",
+      "projectName": "MyProject_01",
+      "projectPath": "C:\\Users\\india2\\source\\aspCore\\chapter_04\\MyProject_01\\MyProject_01.csproj",
+      "packagesPath": "C:\\Users\\india2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\india2\\source\\aspCore\\chapter_04\\MyProject_01\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\india2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Microsoft.Web.LibraryManager.Build": {
+            "target": "Package",
+            "version": "[3.0.71, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

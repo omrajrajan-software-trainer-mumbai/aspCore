@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageFeatures_01", "LanguageFeatures_01\LanguageFeatures_01.csproj", "{A699ABDE-C320-4D84-BAF0-65ABFD1A91C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LanguageFeatures_01", "LanguageFeatures_01\LanguageFeatures_01.csproj", "{A699ABDE-C320-4D84-BAF0-65ABFD1A91C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageFeatures_02", "LanguageFeatures_02\LanguageFeatures_02.csproj", "{E5A3478A-75F4-4C72-A892-18A441BADCAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A699ABDE-C320-4D84-BAF0-65ABFD1A91C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A699ABDE-C320-4D84-BAF0-65ABFD1A91C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A699ABDE-C320-4D84-BAF0-65ABFD1A91C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A3478A-75F4-4C72-A892-18A441BADCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A3478A-75F4-4C72-A892-18A441BADCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A3478A-75F4-4C72-A892-18A441BADCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A3478A-75F4-4C72-A892-18A441BADCAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
